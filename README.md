@@ -1,3 +1,4 @@
 # hello-world
-1st git repository, following "hello world" guide
-this is a brief description of myself
+
+this is one line of description.  
+this is a second line of description
